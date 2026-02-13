@@ -40,5 +40,4 @@ This repository contains my Python, Data Analysis, and Web Scraping practice pro
 ## Purpose
 This repository is part of my hands-on practice to strengthen Python, Web Scraping, and Data Analysis skills for AI/ML roles.
 
----
 Feel free to explore the notebooks. 
