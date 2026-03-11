@@ -1,4 +1,5 @@
-# Python & ML Practice Projects 
+# API & Web Scrapping Projects
+
 
 This repository contains my Python, Data Analysis, and Web Scraping practice projects created during my AI/ML learning journey.
 
